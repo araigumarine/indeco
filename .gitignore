@@ -6,6 +6,10 @@
 
 .project
 
+# Vagrant
+Vagrantfile
+.vagrant/*
+
 # Ignore bundler config.
 /.bundle
 
